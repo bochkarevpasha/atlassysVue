@@ -26,7 +26,7 @@
           <input type="text" class="header-input" placeholder="Search for something">
         </div>
         <div class="header-item header__button">
-          <img class="header-icon" src="./assets/icons/settings 1.svg" alt="">
+          <img class="header-icon" src="./assets/icons/settings1.svg" alt="">
         </div>
         <div class="header-item header__button">
           <img class="header-icon" src="./assets/icons/notification.svg" alt="">
